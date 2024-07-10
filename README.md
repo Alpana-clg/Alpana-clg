@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alpana-clg
 - 👀 I’m interested in Web Development and coding.
-- 🌱 I’m currently learning React js Next JS.
+- 🌱 I’m currently learning React js & Next JS.
 - 📫 You can reach me through gmail (alpanakumariclg123@gmail.com) or linkedin. 
 
 <!---
